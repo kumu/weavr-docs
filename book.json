@@ -1,12 +1,16 @@
 {
-    "gitbook": "3.2.3",
-    "title": "Weavr Help Docs",
-    "description": "",
-    "plugins": ["heading-anchors"],
-    "structure": {
-        "readme": "welcome.md"
-    },
-    "pluginsConfig": {
-        
+  "gitbook": "3.2.3",
+  "title": "Weavr Documentation",
+  "description": "",
+  "plugins": ["heading-anchors", "algolia", "search"],
+  "structure": {
+      "readme": "welcome.md"
+  },
+  "pluginsConfig": {
+      "algolia": {
+        "index":         "production",
+        "applicationID": "IB0QLVA15V",
+        "publicKey":     "579e427f2c79d4cbe4321010b66a5a62"
     }
+  }
 }
