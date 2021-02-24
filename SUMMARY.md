@@ -2,4 +2,4 @@
 
 ## Getting started
 
-* [Example guide](/guides/example-guide.md)
+* [Weavr: Getting Started](/guides/weavr-getting-started)
