@@ -11,7 +11,7 @@
 ## Guides
 
 * [Export to Kumu](/guides/export-kumu.md)
-* [Fields](/guides/fields.md)
+* [Profile Fields](/guides/fields.md)
 * [Inviting Community Members](/guides/inviting-communitymembers.md)
 
 
