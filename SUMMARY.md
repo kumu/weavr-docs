@@ -11,5 +11,6 @@
 ## Guides
 
 * [Inviting Community Members](/guides/inviting-communitymembers.md)
+* [Export to Kumu](/guides/export-kumu.md)
 
 ## FAQ
