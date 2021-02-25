@@ -16,3 +16,4 @@
 
 
 ## FAQ
+* [How do I close my community?](/guides/close-community.md)
