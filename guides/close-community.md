@@ -8,5 +8,7 @@ Please note that only the community admin(s) can request to close an account.
 
 If you'd ever like to re-activate your community in the future, you can email our Support again. 
 
+*In a temporary pinch? Please reach out to us. We're happy to explore alternative pricing models with you.*
+
 
 
