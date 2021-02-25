@@ -2,4 +2,4 @@
 
 ## Getting started
 
-* [Weavr: Getting Started](/guides/weavr-getting-started)
+* [Weavr: Getting Started](/guides/weavr-getting-started.md)
