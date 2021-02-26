@@ -10,9 +10,11 @@
 
 ## Guides
 
+* [Explore Interests](/guides/explore-interests.md)
 * [Export to Kumu](/guides/export-kumu.md)
-* [Profile Fields](/guides/fields.md)
 * [Inviting Community Members](/guides/inviting-communitymembers.md)
+* [Network Analysis](/guides/network-analysis.md)
+* [Profile Fields](/guides/fields.md)
 * [Relationship Strengths](/guides/relationship-strengths.md)
 
 
