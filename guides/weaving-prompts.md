@@ -43,7 +43,7 @@ Click "Send to send a notification to both members and invite them to connect.
 ## Manage your weaving prompts
 To manage your weaving prompts, click on the three dots in the top-right menu of the Weaving Prompts page and choose which weaving prompts you'd like to see: 
 
-- Open - Any unanswered weaving prompts
-- Archived - Any answered weaving prompts
-- Postponed - Any weaving prompts that you want to be reminded about later
-- Sent - Any manual weaving prompts you sent two other community members
+- **Open** - Any unanswered weaving prompts
+- **Archived** - Any answered weaving prompts
+- **Postponed** - Any weaving prompts that you want to be reminded about later
+- **Sent** - Any manual weaving prompts you sent two other community members
