@@ -13,6 +13,7 @@
 * [Export to Kumu](/guides/export-kumu.md)
 * [Profile Fields](/guides/fields.md)
 * [Inviting Community Members](/guides/inviting-communitymembers.md)
+* [Relationship Strengths](/guides/relationship-strengths.md)
 
 
 ## FAQ
