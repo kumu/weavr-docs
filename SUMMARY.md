@@ -18,3 +18,4 @@
 
 ## FAQ
 * [How do I close my community?](/guides/close-community.md)
+* [Why can't I sign into Weavr?](/guides/cant-signin.md)
