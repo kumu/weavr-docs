@@ -6,6 +6,8 @@ Network Analysis is accessible to everyone in the community and can help you dis
 To access Network Analysis, click on the menu icon in the top-left corner of your screen, and then choose "Network Analysis". 
 
 ## Functionalities 
+The Network Analysis page is packed with powerful functionalities that allow you to analyze your community by qualitative and quantitative data. 
+Use any or all of the below functionalities to discover the hidden structures in your community and find potential ways to grow and connect over time.
 
 ### View basic Social Network Analysis (SNA) metrics and rank community members accordingly
 When arriving on the Network Analysis page you'll automatically see three SNA metrics at the top of your screen:
