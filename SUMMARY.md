@@ -13,9 +13,11 @@
 * [Explore Interests](/guides/explore-interests.md)
 * [Export to Kumu](/guides/export-kumu.md)
 * [Inviting Community Members](/guides/inviting-communitymembers.md)
+* [Messages & Post Topics](/guides/messages.md)
 * [Network Analysis](/guides/network-analysis.md)
 * [Profile Fields](/guides/fields.md)
 * [Relationship Strengths](/guides/relationship-strengths.md)
+* [Weaving Prompts](/guides/weaving-prompts.md)
 
 
 ## FAQ
