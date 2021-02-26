@@ -9,7 +9,7 @@ A network weaver is someone who is aware of the networks around them, and explic
 - Serving as a catalyst for self-organizing groups.
 - Weavr makes it easier to empower everyone in your community to strengthen and grow the network. 
 
-**Weavr offers two types of weaving prompts: **
+**Weavr offers two types of weaving prompts:**
 
 - Automatic: the Weavr app suggests that you connect with someone based on similar interests filled out in member profiles
 - Manual: a community member suggests that two other members connect and includes a short note on why
