@@ -607,3 +607,9 @@ video {
 /*li[data-level^="1.3.1"] {
   display: none;
 }*/
+
+
+/* Hide weird GitBook stuff */
+a.gitbook-link {
+  display: none;
+}
