@@ -1,4 +1,4 @@
-# Why can I not sign in? 
+# Why can I not sign into Weavr? 
 
 After opening the Weavr app, you'll be prompted to enter your email address. An email will be sent that includes a sign-in link. Clicking the sign-in link will complete the sign-in process and give you access to the community.
 
