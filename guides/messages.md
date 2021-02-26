@@ -10,6 +10,8 @@ It’s important to know what people in your community are thinking about and/or
 To access your messages, click on the Messages icon in the menu bar at the bottom of your screen. 
 To create a post viewable by the entire community, click on the three dots in the top-right corner, and choose "Add Post". 
 
+To send a direct message to a community member, please visit their profile and click on the colored Weavr button at the top to choose "Message". 
+
 Any messages can include text, emojis, images and files. 
 
 ## Post Topics
