@@ -14,8 +14,8 @@ A network weaver is someone who is aware of the networks around them, and explic
 - Automatic: the Weavr app suggests that you connect with someone based on similar interests filled out in member profiles
 - Manual: a community member suggests that two other members connect and includes a short note on why
 
-## Automatic Weaving Prompts: Suggestions made by Weavr
-Click on the Weavr logo in the menu bar at the bottom to access your Weaving Prompts. There, you'll see card-like suggestions to connect with other community members. You can slide left and right to scan through your prompts. 
+## Automatic Weaving Prompts
+Automatic prompts are those created by Weavr, which suggest you to connect with another community member based on common interests. Click on the Weavr logo in the menu bar at the bottom to access your Weaving Prompts. There, you'll see card-like suggestions to connect with other community members. You can slide left and right to scan through your prompts. 
 
 **Click thumbs down to:**
 - Ask Weavr to remind you about this prompt later
@@ -33,8 +33,8 @@ Click on the Weavr logo in the menu bar at the bottom to access your Weaving Pro
 
 Weavr will send automatic push notifications to your phone with weaving prompts, such as suggestions to connect with a fellow community member based on common interests, or reminders to update your profile information. If you want to switch them off, please update your [notification settings](/guides/notifications.md). 
 
-## Manual Weaving Prompts: Introduce community members to each other
-To create a manual weaving prompts that introduces two other members to each other, first click on the Weavr icon in the menu bar at the bottom and then click on the colored + sign in the top-right corner of the screen. 
+## Manual Weaving Prompts
+Manual prompts are created by community members that suggest other members to connect. To create a manual weaving prompts that introduces two other members to each other, first click on the Weavr icon in the menu bar at the bottom and then click on the colored + sign in the top-right corner of the screen. 
 
 In step 1, choose the two community members that you'd like to introduce. 
 in step 2, write a short prompt to let them know why you think they should connect. Please note that both members will receive this text in their notifications. 
