@@ -6,9 +6,9 @@ We handle all payments with full PCI-compliance through Stripe, the industry sta
 
 To add or change the credit card you use for Weavr, perform the following steps:
 
-Click on the pencil icon in the top-right corner, or click on the top-left corner menu and choose Edit Community
-On the next page, click on the credit card icon in the upper right corner
-Add or update your card there
+- Click on the gear icon in the top-right corner, or click on the top-left corner menu and choose "Edit Community"
+- On the next page, click on the credit card icon in the upper right corner
+- Add or update your card there
 
 *Please note, only admins can add and edit credit card information. If you don’t see the credit card icon, please double check with your community owner whether you have admin rights.* 
 
