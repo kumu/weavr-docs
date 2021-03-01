@@ -9,20 +9,20 @@ First and foremost: download the Weavr mobile app from your device’s app store
 [Google Play](https://play.google.com/store/apps/details?id=app.weavr&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
 
 ## Create a community
-After having downloaded the Weavr app, you’ll find the welcome page that invites you to Sign In (for returning users), or to Create a community. To create a new space for your community, click on Create a community and follow the prompted steps to set it up. 
+After having downloaded the Weavr app, you’ll find the welcome page that invites you to Sign In (for returning users), or to Create a community. To create a new community, please visit weavr.app/create on a desktop. 
 
 *Please note that you’re asked for your credit card information in step 3 of setting up your own community. If you are unable to do that, or require a demo/trial, please contact us at support@weavr.app*
 
 ## Fill out your profile
-Click on the image icon on the far right of the bottom menu bar to access your profile. Here, you can edit your profile by clicking on the pencil icon in the top-right corner. Add a picture, fill out your info, and share your interests/skills. Profile information is viewable to everyone in the community!
+Once you've created your community and logged into the app, click on the profile icon on the far right of the bottom menu bar to access your profile. Here, you can edit your profile by clicking on the pencil icon in the top-right corner. Add a profile picture, fill out your basic info, and add your interests, offers and needs. Note that profile information is viewable to everyone in the community!
 
 ## Invite your connections
 Once you’ve set up your community, it’s time to invite other members to it. There’s three ways to add community members to your freshly setup community: 
 
-- Click on the menu in the top-left corner and choose Invite. This allows you to add a single user with their email address and their names. Your invitee will receive an email in their inbox with a personal signup link. 
+- Click on the hamburger icon in the top-left corner to access the drawer menu and choose "Invite". This allows you to add a single user with their email address and their names. Your invitee will receive an email in their inbox with a personal signup link. Note: by default, only admins can invite other members. However, if you'd like all members of your community to be able to invite other users, please visit "Edit Community" > "Members" in the top-left menu.
 
 
-- If you prefer to do a bulk upload of all your community members at once, please go to Edit Community in the top-left corner menu and click the Members tab. You’ll find the Bulk Upload button here. 
+- If you prefer to do a bulk upload of all your community members at once, please go to "Edit Community" in the top-left corner menu of your community's homepage and click on the "Members" tab. You’ll find the "Bulk Upload" button here. 
 
 
 - The last option is to share a signup link with your contacts. This way, people that want to be added to your community can request this through the signup link. You can decide whether you want to auto-accept requests, or whether you wish to manually accept or reject them. As an admin, you’ll be notified anytime you receive a new join request. You’ll find the signup link on the same Members page as point 2. 
@@ -30,7 +30,9 @@ Once you’ve set up your community, it’s time to invite other members to it. 
 ## Update your relationships
 After filling out your profile, it’s time to add your relationships! Click on the edit pencil and choose “Edit my relationships” to indicate who you know in the community and how well. The number of Relationship Strengths and their specific text is set by the community admin. 
 
-*Please note that all community members can see your relationships and their strengths.*
+*Please note:
+- All community members can see your relationships and their strengths.
+- Any relationship you add will show up on the other member's profile, even if they haven't added you as a relationship.*
 
 ## Start posting
 Once you’re set up, you can create a Post to send a message to your entire community. Choose the Posts icon in the bottom menu bar of your screen and click on the + sign to add a new post. You can also pre-determine Post Topics (link to post topics) to organize your community’s messages. And finally, perhaps start reaching out to your community members through the direct message functionality!
