@@ -46,4 +46,4 @@ Select - Creates a dropdown field with multiple options
 Tags - Allows members to add multiple tags to a profile
 
 ## Deleting a field
-TBD because haven't figured out how to do this. Noah!  
+To delete a field, please contact support@weavr.app.  
