@@ -18,12 +18,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kumu/docs.git"
+    "url": "git+https://github.com/kumu/weavr-docs.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kumu/docs/issues"
+    "url": "https://github.com/kumu/weavr-docs/issues"
   },
-  "homepage": "https://github.com/kumu/docs#readme"
+  "homepage": "https://github.com/kumu/weavr-docs#readme"
 }
