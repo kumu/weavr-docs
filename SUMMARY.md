@@ -16,7 +16,7 @@
 * [Inviting Community Members](/guides/inviting-communitymembers.md)
 * [Messages & Post Topics](/guides/messages.md)
 * [Network Analysis](/guides/network-analysis.md)
-* [Profile Fields](/guides/fields.md)
+* [Profiles](/guides/profiles.md)
 * [Relationship Strengths](/guides/relationship-strengths.md)
 * [Weaving Prompts](/guides/weaving-prompts.md)
 
