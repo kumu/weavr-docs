@@ -2,7 +2,8 @@
 
 ## Getting started
 
-* [Weavr: Getting Started](weavr-getting-started.md)
+* [Weavr: Getting Started (for Admins)](getting-started-admin.md)
+* [Weavr: Getting Started (for Community Members)](getting-started-member.md)
 
 ## Overview
 
