@@ -1,4 +1,4 @@
-# Fields
+# Profiles
 
 Every community member in Weavr has a profile where they can fill out their personal information. 
 Profiles are generally viewable by everyone in the community, except for when an admin has enabled hidden fields.
