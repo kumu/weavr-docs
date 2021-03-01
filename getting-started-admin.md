@@ -1,4 +1,4 @@
-# Getting started with Weavr (admin)
+# Getting started with Weavr (for Admins)
 
 Weavr is an online collaboration app developed by the [Kumu](http://kumu.io/) team which helps you build more impactful networks and communities. We’re happy you found us! Below we’ll outline the first steps to get started with your very own Weavr community. 
 
