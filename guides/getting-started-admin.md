@@ -24,7 +24,9 @@ To learn more, please head over to [Inviting Community Members](/guides/inviting
 After filling out your profile, it’s time to add your relationships! Click on the edit pencil and choose “Edit my relationships” to indicate who you know in the community and how well. The number of Relationship Strengths and their specific text is set by the community admin. 
 
 _Please note:_
+
 _- All community members can see your relationships and their strengths._
+
 _- Any relationship you add will show up on the other member's profile, even if they haven't added you as a relationship._
 
 ## Start posting
