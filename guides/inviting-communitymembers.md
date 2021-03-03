@@ -15,6 +15,6 @@ Furthermore, you can check the appropriate boxes on this page to set up configur
 ## Bulk import 
 And finally, you can choose to import new members in bulk. Enter the users to import in CSV format, where each line contains the email address, full name, and short name of the user you’d like to add. You can also paste from Google Sheets or Excel. 
 
-Please note that community members imported in bulk will not receive an invite email in their inbox. They’ll simply be able to request a sign in code on the login page of the Weavr app. 
+Please note that community members imported in bulk will receive an invite email in their inbox. They’ll then be able to request a sign in code on the login page of the Weavr app. 
 
 *Furthermore: if anyone who isn’t invited/accepted into your community tries to request a signup link in the Weavr app, they simply won’t receive any email and, thus, won't have access to your community.* 
