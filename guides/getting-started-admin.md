@@ -23,9 +23,9 @@ To learn more, please head over to [Inviting Community Members](/guides/inviting
 ## Update your relationships
 After filling out your profile, it’s time to add your relationships! Click on the edit pencil and choose “Edit my relationships” to indicate who you know in the community and how well. The number of Relationship Strengths and their specific text is set by the community admin. 
 
-_Please note:
-- All community members can see your relationships and their strengths.
-- Any relationship you add will show up on the other member's profile, even if they haven't added you as a relationship._
+_Please note:_
+_- All community members can see your relationships and their strengths._
+_- Any relationship you add will show up on the other member's profile, even if they haven't added you as a relationship._
 
 ## Start posting
 Once you’re set up, you can create a Post to send a message to your entire community. Choose the Posts icon in the bottom menu bar of your screen and click on the + sign to add a new post. You can also pre-determine Post Topics (link to post topics) to organize your community’s messages. And finally, perhaps start reaching out to your community members through the direct message functionality!
