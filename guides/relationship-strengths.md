@@ -25,7 +25,7 @@ If you're an admin, you can decide to use these default strengths, or you can cu
 
 ## Editing Relationship Strengths
 Only the community admin(s) can edit, add, or delete relationship strengths visible in the community profiles. To edit relationship strengths, click on the menu icon in the top-left corner of the app, choose "Community Settings", and switch to the "Relationships" tab. You'll see a list of all relationship strengths that are currently used by your community. 
-- Give a value to the relationship strength to determine how they are treated in the Network Analysis section of the Weavr app
+- Give a value to the relationship strength to determine how they are treated in the Network Analysis section of the Weavr app, and how relationships are ordered on user profiles
 - Change the number of the field with the dropdown to change the order in which they show up in a profile
 - Use the toggle to delete a relationship strength. Don't forget to hit "Save" at the bottom!
 
