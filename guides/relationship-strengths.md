@@ -6,7 +6,7 @@ To edit your relationships, first click on the profile icon in the bottom-right 
 **To add a new relationship:**
 
 1. Choose a community member from the list and click "Next" at the bottom of your screen. 
-2. On the next screen: choose th corrsponeding relationship strength between you and that person. Click "Next" again. 
+2. On the next screen: choose the corresponding relationship strength between you and that person. Click "Next" again. 
 3. Have any other relationship strengths changed? Option to update them on the next screen.
 4. All set? Click "Save" at the bottom of the screen.
 
