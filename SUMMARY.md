@@ -14,7 +14,7 @@
 
 * [Explore Network](/guides/explore-network.md)
 * [Export to Kumu](/guides/export-kumu.md)
-* [Inviting Community Members](/guides/inviting-communitymembers.md)
+* [Inviting Community Members](/guides/inviting-members.md)
 * [Messages & Post Topics](/guides/messages.md)
 * [Network Analysis](/guides/network-analysis.md)
 * [Profiles](/guides/profiles.md)
