@@ -11,7 +11,7 @@
 
 ## Guides
 
-* [Explore Interests](/guides/explore-interests.md)
+* [Explore Network](/guides/explore-network.md)
 * [Export to Kumu](/guides/export-kumu.md)
 * [Inviting Community Members](/guides/inviting-communitymembers.md)
 * [Messages & Post Topics](/guides/messages.md)
