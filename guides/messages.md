@@ -19,7 +19,7 @@ Having difficulties organizing the posts in your Weavr community? Or are you loo
 
 When creating a new Post, you'll always be asked in the second step whether you'd like to assign it to a specific post topic, or if you'd like to keep it in the main Messages area. 
 
-To edit your post topics, click on the three dots in the top-right corner, and choose "Edit Topics". You can add, edit, or delete 
+Only admins are able to edit post topics. To edit your post topics, click on the three dots in the top-right corner, and choose "Edit Topics". You can add, edit, or delete them there. 
 
 ### Subscribe
 
