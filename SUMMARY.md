@@ -1,12 +1,13 @@
 # Summary
 
-## Getting started
+## Welcome
 
-* [Weavr: Getting Started (for Admins)](getting-started-admin.md)
-* [Weavr: Getting Started (for Community Members)](getting-started-member.md)
+* [Weavr](/guides/welcome.md)
 
 ## Overview
 
+* [Weavr: Getting Started (for Admins)](getting-started-admin.md)
+* [Weavr: Getting Started (for Community Members)](getting-started-member.md)
 * [Billing](/guides/billing.md)
 
 ## Guides
