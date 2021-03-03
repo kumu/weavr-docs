@@ -24,5 +24,6 @@
 
 ## FAQ
 * [How do I close my community?](/guides/close-community.md)
+* [How do I create a welcome message for my community?](/guides/create-welcome-message.md)
 * [How do I manage my notifications?](/guides/notifications.md)
 * [Why can't I sign into Weavr?](/guides/cant-signin.md)
