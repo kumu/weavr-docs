@@ -17,15 +17,8 @@ After having downloaded the Weavr app, you’ll find the welcome page that invit
 Once you've created your community and logged into the app, click on the profile icon on the far right of the bottom menu bar to access your profile. Here, you can edit your profile by clicking on the pencil icon in the top-right corner. Add a profile picture, fill out your basic info, and add your interests, offers and needs. Note that profile information is viewable to everyone in the community!
 
 ## Invite your connections
-Once you’ve set up your community, it’s time to invite other members to it. There’s three ways to add community members to your freshly setup community: 
-
-- Click on the hamburger icon in the top-left corner to access the drawer menu and choose "Invite". This allows you to add a single user with their email address and their names. Your invitee will receive an email in their inbox with a personal signup link. Note: by default, only admins can invite other members. However, if you'd like all members of your community to be able to invite other users, please visit "Edit Community" > "Members" in the top-left menu.
-
-
-- If you prefer to do a bulk upload of all your community members at once, please go to "Edit Community" in the top-left corner menu of your community's homepage and click on the "Members" tab. You’ll find the "Bulk Upload" button here. 
-
-
-- The last option is to share a signup link with your contacts. This way, people that want to be added to your community can request this through the signup link. You can decide whether you want to auto-accept requests, or whether you wish to manually accept or reject them. As an admin, you’ll be notified anytime you receive a new join request. You’ll find the signup link on the same Members page as point 2. 
+Once you’ve set up your community, it’s time to invite other members to it. There’s three ways to add community members to your freshly setup community. 
+To learn more, please head over to [Inviting Community Members](/guides/inviting-communitymembers.md).
 
 ## Update your relationships
 After filling out your profile, it’s time to add your relationships! Click on the edit pencil and choose “Edit my relationships” to indicate who you know in the community and how well. The number of Relationship Strengths and their specific text is set by the community admin. 
