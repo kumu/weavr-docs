@@ -4,7 +4,7 @@
   "description": "",
   "plugins": ["heading-anchors", "algolia", "search"],
   "structure": {
-      "readme": "weavr-getting-started.md"
+      "readme": "welcome.md"
   },
   "pluginsConfig": {
       "algolia": {
