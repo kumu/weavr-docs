@@ -30,7 +30,9 @@ Once you’ve set up your community, it’s time to invite other members to it. 
 To learn more, please head over to [Inviting Community Members](/guides/inviting-communitymembers.md).
 
 ## Start posting
-Once you’re set up, you can create a Post to send a message to your entire community. Choose the Posts icon in the bottom menu bar of your screen and click on the + sign to add a new post. You can also pre-determine Post Topics (link to post topics) to organize your community’s messages. And finally, perhaps start reaching out to your community members through the direct message functionality!
+Once you’re set up, you can create a Post to send a message to your entire community. To do so, choose the message icon in the bottom menu bar of your screen and click on the + sign to add a new post. If you want to create a welcome message that is pinned to your homepage for your community to see as soon as they sign into Weavr, head over to [this guide](/guides/add-welcome-message.md). And finally, perhaps start reaching out to individual community members through the direct message functionality!
+
+Find out more about how to organize your community's messages in the [Post Topics](/guides/post-topics.md) guide. 
 
 ## Weaving Prompts
 Weaving Prompts are the foundational feature of Weavr that allows you to weave your network together and grow a more impactful community. 
