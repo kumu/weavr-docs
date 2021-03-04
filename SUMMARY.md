@@ -6,8 +6,8 @@
 
 ## Overview
 
-* [Getting Started (for Admins)](getting-started-admin.md)
-* [Getting Started (for Community Members)](getting-started-member.md)
+* [Getting Started (for Admins)](/guides/getting-started-admin.md)
+* [Getting Started (for Community Members)](/guides/getting-started-member.md)
 * [Billing](/guides/billing.md)
 
 ## Guides
