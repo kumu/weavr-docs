@@ -9,7 +9,7 @@ First and foremost: download the Weavr mobile app from your device’s app store
 [Google Play](https://play.google.com/store/apps/details?id=app.weavr&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
 
 ## Access your community
-You've likely been invite into a community by a community admin. Follow the link in the invite email to sign in. 
+You've likely been invited into a community by a community admin. First, follow the link in the invite email to sign in. 
 
 After opening the Weavr app, you'll be prompted to enter your email address. An email will be sent to you, which includes a sign-in link. Clicking the sign-in link will complete the sign-in process and give you access to the community.
 
