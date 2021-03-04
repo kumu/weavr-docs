@@ -14,6 +14,7 @@
 
 * [Explore Network](/guides/explore-network.md)
 * [Export to Kumu](/guides/export-kumu.md)
+* [Health & Metrics](/guides/health-metrics.md)
 * [Inviting Community Members](/guides/inviting-members.md)
 * [Messages & Post Topics](/guides/messages.md)
 * [Network Analysis](/guides/network-analysis.md)
