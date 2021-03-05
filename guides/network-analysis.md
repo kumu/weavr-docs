@@ -42,4 +42,5 @@ If you click on the menu bar at the bottom of the Network Analysis page where it
 - **Outgoing Connection** - Measures the number of outgoing connections for a specific community member (also called "outdegree"). In general, members with high outdegree (outgong connections) have the potential to reach a high number of other elements and spark the flow of information across a network. Nevertheless, they may not be the most efficient at spreading the information, or may report relationships that aren't reciprocated. 
 - **Total Connections** - Counts the number of connections a specific community member has (alo called "degree"). In general, members with high degree are the local connectors / hubs, but aren't necessarily the best connected to the wider network.
 
-*Looking to do more extensive network analysis? [Export your Weavr data to Kumu](/guides/export-kumu.md) to use Kumu's more advanced features.*
+*Looking to do more extensive network analysis?
+[Export your Weavr data to Kumu](/guides/export-kumu.md) to use Kumu's more advanced features.*
