@@ -25,7 +25,7 @@ If you want to change the email address that receipts are sent to, please reach 
 
 ## Cancel my subscription
 The subscription to Weavr can only be canceled by closing your community. It will be locked, and you and your community won't be able to access the space anymore. 
-If you'd like to cancel your subscription, please send us a request to close at suppport@weavr.io
+If you'd like to cancel your subscription, please send us a request to close at support@weavr.app
 
 In a temporary pinch? Please reach out to us. We're happy to explore alternative pricing models with you.
 
