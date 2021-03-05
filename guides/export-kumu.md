@@ -10,3 +10,5 @@ You can directly export your Weavr community data into a Kumu project to run mor
 - If you choose a private project, the $9 fee is already included in your monthly Weavr subscription. You will not have to pay extra for a Kumu project.
 
 Please contact [support@weavr.app](mailto:support@weavr.app) if you wish to integrate your Weavr community with a Kumu project and we'll be happy to set it up for you!
+
+![Kumu Map](/images/kumu-map.png)
