@@ -4,7 +4,7 @@ You can directly export your Weavr community data into a Kumu project to run mor
 
 **Some things to note:** 
 
-- You need a Kumu account to open a Kumu project
+- You need a [Kumu account](kumu.io) to open a Kumu project
 - Your Kumu map will automatically be updated every time you refresh the project/page. 
 - You can choose between a [*public* or a *private* project](https://docs.kumu.io/overview/collaboration.html#public-vs-private-projects) 
 - If you choose a private project, the $9 fee is already included in your monthly Weavr subscription. You will not have to pay extra for a Kumu project.
