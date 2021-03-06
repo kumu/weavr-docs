@@ -7,3 +7,5 @@ As an admin, you might want to have a post that welcomes your members to the com
 3. You're post will now show up on the community home page and will be clickable for everyone to read upon entering the app
 
 To remove a pinned post from the homepage, simply repeat step 2 and choose "unpin". Another option is to delete the post, and it will automatically be removed from your homepage.
+
+![Welcome Message](/images/welcome-message.jpg)
