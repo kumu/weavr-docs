@@ -54,22 +54,14 @@ img {
   text-decoration: underline;
 }
 
-.book .book-body .page-wrapper .page-inner section.normal img {
-  border: 1px solid #ddd;
-  border-radius: 3px;
-  box-shadow: 0 0 15px rgba(0,0,0,0.05);
+img {
+	border-radius: 3px;
+	border: 1px solid #E2E8F0;
 }
 
-.book .book-body .page-wrapper .page-inner section.normal .small img {
-  max-width: 100%;
-  width: 600px;
-}
-
-.book .book-body .page-wrapper .page-inner section.normal .plain,
-.book .book-body .page-wrapper .page-inner section.normal .plain img {
-  border: none;
-  border-radius: 0;
-  box-shadow: none;
+img[alt*="Phone screenshot"] {
+  box-shadow: 0 4px 6px -1px rgba(0,0,0,.1),0 2px 4px -1px rgba(0,0,0,.06);
+	max-width: 300px;
 }
 
 .book .book-body .page-wrapper .page-inner section.normal .plain,
