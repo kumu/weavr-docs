@@ -65,13 +65,6 @@ img[alt*="phone screenshot"] {
 	max-width: 300px;
 }
 
-.book .book-body .page-wrapper .page-inner section.normal .plain,
-.book .book-body .page-wrapper .page-inner section.normal img {
-  border: none;
-  border-radius: 0;
-  box-shadow: none;
-}
-
 .book .book-body .page-wrapper .page-inner section.normal pre {
   display: block;
   padding: 9.5px;
