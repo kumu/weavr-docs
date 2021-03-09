@@ -15,4 +15,4 @@ To choose other values, click "Edit Values (Interests)" at the top of your scree
 
 You can also choose to filter the members based on a relationship strength: check or uncheck the boxes that say "Show the following connection" to switch between any or all of the relationship strengths. 
 
-![Phone Screenshot of Edit Explore Network](/images/edit-explore-network.jpg)
+![Phone Screenshot of Edit Explore Network](/images/Edit-explore-network.jpg)
