@@ -6,6 +6,8 @@ Weavr uses two types of notifications:
 
 To manage your notification preferences inside the Weavr app: go to your profile, click on the edit pencil in the top-right corner, and then choose "Edit Preferences".
 
+![Phone screenshot of Preferences](/images/preferences.jpg)
+
 On the next screen you'll be able to edit the following notification settings: 
 - Posts
 - Post replies
