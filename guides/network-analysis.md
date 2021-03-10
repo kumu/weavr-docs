@@ -5,6 +5,8 @@ Network Analysis is accessible to everyone in the community and allows for deepe
 
 To access, click on the menu icon in the top-left corner of your screen, and then choose "Network Analysis". 
 
+![Phone screenshot of Network Analysis](/images/network-analysis.jpg)
+
 ## Functionalities 
 The Network Analysis page is packed with powerful functionalities that allow you to analyze your community by both qualitative and quantitative data. 
 Use any or all of the below functionalities to discover the hidden structures in your community and/or find potential ways to grow and connect over time.
@@ -34,6 +36,8 @@ Click on the Map Settings icon in the bottom-right corner of your screen to furt
 
 Since orphans can distort your SNA metrics, Weavr automatically takes them out of your view. if you prefer to include them, click on the Map Settings icon in the bottom-right cornerr of your screen, and then check the "Include orphans" checkbox at the bottom of the menu that pops up. Don't forget to Save!
 
+![Phone screenshot of Network Analysis Settings](/images/network-analysis-settings.jpg)
+
 ### Rank the community
 If you click on the menu bar at the bottom of the Network Analysis page where it says "Showing x people(x hidden)", you can rank your community based on some more SNA metrics. The current options are: 
 
@@ -41,6 +45,8 @@ If you click on the menu bar at the bottom of the Network Analysis page where it
 - **Incoming Connections** - Measures the number of incoming connections for a specific community member (also called "indegree"). That is; many people indicated they have a relationships with them. In general, members with high indegree (incoming connections) can be regarded as leaders in a community, looked to by others as a source of advice, expertise, or information.
 - **Outgoing Connection** - Measures the number of outgoing connections for a specific community member (also called "outdegree"). In general, members with high outdegree (outgong connections) have the potential to reach a high number of other elements and spark the flow of information across a network. Nevertheless, they may not be the most efficient at spreading the information, or may report relationships that aren't reciprocated. 
 - **Total Connections** - Counts the number of connections a specific community member has (alo called "degree"). In general, members with high degree are the local connectors / hubs, but aren't necessarily the best connected to the wider network.
+
+![Phone screenshot of Ranking](/images/ranking.jpg)
 
 *Looking to do more extensive network analysis?
 [Export your Weavr data to Kumu](/guides/export-kumu.md) to use Kumu's more advanced features.*
