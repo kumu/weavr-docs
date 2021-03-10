@@ -14,6 +14,8 @@ A network weaver is someone who is aware of the networks around them, and explic
 - Automatic: the Weavr app suggests that you connect with someone based on similar interests filled out in member profiles
 - Manual: a community member suggests that two other members connect and includes a short note on why
 
+![Phone screenshot of Weaving Prompts](/images/weaving-prompts.jpg)
+
 ## Automatic Weaving Prompts
 Automatic prompts are those created by Weavr, which suggest you to connect with another community member based on common interests. Click on the Weavr logo in the menu bar at the bottom to access your Weaving Prompts. There, you'll see card-like suggestions to connect with other community members. You can slide left and right to scan through your prompts. 
 
@@ -39,6 +41,8 @@ Manual prompts are created by community members that suggest other members to co
 In step 1, choose the two community members that you'd like to introduce. 
 in step 2, write a short prompt to let them know why you think they should connect. Please note that both members will receive this text in their notifications. 
 Click "Send to send a notification to both members and invite them to connect. 
+
+![Phone screenshot of Manual Weaving Prompts](/images/manual-weaving-prompt.jpg)
 
 ## Manage your weaving prompts
 To manage your weaving prompts, click on the three dots in the top-right menu of the Weaving Prompts page and choose which weaving prompts you'd like to see: 
