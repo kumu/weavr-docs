@@ -13,8 +13,16 @@ After having downloaded the Weavr app, you’ll find the welcome page that invit
 
 *Please note that you’re asked for your credit card information in step 3 of setting up your own community. If you are unable to do that, or require a demo/trial, please contact us at support@weavr.app*
 
+
+![Phone screenshot of Signin](/images/signin.jpg)
+
+
 ## Fill out your profile
 Once you've created your community and logged into the app, click on the profile icon on the far right of the bottom menu bar to access your profile. Here, you can edit your profile by clicking on the pencil icon in the top-right corner. Add a profile picture, fill out your basic info, and add your interests, offers and needs. Note that profile information is viewable to everyone in the community!
+
+
+![Phone screenshot of Profile](/images/profile.jpg)
+
 
 ## Update your relationships
 After filling out your profile, it’s time to add your relationships! Click on the edit pencil and choose “Edit my relationships” to indicate who you know in the community and how well. The number of Relationship Strengths and their specific text is set by the community admin. 
@@ -25,6 +33,8 @@ _- All community members can see your relationships and their strengths._
 
 _- Any relationship you add will show up on the other member's profile, even if they haven't added you as a relationship._
 
+![Phone screenshot of Relationships](/images/relationships.jpg)
+
 ## Invite your connections
 Once you’ve set up your community, it’s time to invite other members to it. There’s three ways to add community members to your freshly setup community. 
 To learn more, please head over to [Inviting Community Members](/guides/inviting-communitymembers.md).
@@ -34,6 +44,8 @@ Once you’re set up, you can create a Post to send a message to your entire com
 
 Find out more about how to organize your community's messages in the [Post Topics](/guides/post-topics.md) guide. 
 
+![Phone screenshot of Messages](/images/messages.jpg)
+
 ## Weaving Prompts
 Weaving Prompts are the foundational feature of Weavr that allows you to weave your network together and grow a more impactful community. 
 
@@ -42,6 +54,10 @@ Create your very first weaving prompt by clicking on the + button in the top-rig
 Weaving prompts will also occasionally push a notification to your phone when your interests, offers or needs align with someone else’s profile. This way, you’ll be prompted to connect with members of your community that you might not have otherwise! 
 
 Find more information about Weaving prompts here (link to Weaving Prompts doc). 
+
+
+![Phone screenshot of Weaving Prompts](/images/weaving-prompts.jpg)
+
 
 ## Support
 That’s it! You’ve set up your very own Weavr community. 
