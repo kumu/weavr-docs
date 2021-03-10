@@ -12,6 +12,8 @@ You'll find the following metrics on your Health & Metrics page:
 - **Added a Relationship** - number of members that added at least one [relationship](/guides/relationship-strengths.md) to their profile
 - **Created a Prompt** - number of members that created at least one manual [weaving prompt](/guides/weaving-prompt.md)
 
+![Phone screenshot of Health & Metrics](/images/health-metrics.jpg)
+
 ## Engagement
 This section ranks your community members by Most Engaged and Least Engaged. Now you can praise the community members that are most engaged, and give a gentle nudge to those that are less engaged. 
 
