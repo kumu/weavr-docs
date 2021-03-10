@@ -2,6 +2,8 @@
 
 Admins will have access to a Health & Metrics page that shows them a quick overview of how their community has been adopting the Weavr app. 
 
+![Phone screenshot of Health & Metrics](/images/health-metrics.jpg)
+
 ## Metrics
 You'll find the following metrics on your Health & Metrics page: 
 
@@ -11,8 +13,6 @@ You'll find the following metrics on your Health & Metrics page:
 - **Updated Profile** - number of active members that updated their profile **(does this include people that have only been invited, but have not signed in yet??)**
 - **Added a Relationship** - number of members that added at least one [relationship](/guides/relationship-strengths.md) to their profile
 - **Created a Prompt** - number of members that created at least one manual [weaving prompt](/guides/weaving-prompt.md)
-
-![Phone screenshot of Health & Metrics](/images/health-metrics.jpg)
 
 ## Engagement
 This section ranks your community members by Most Engaged and Least Engaged. Now you can praise the community members that are most engaged, and give a gentle nudge to those that are less engaged. 
