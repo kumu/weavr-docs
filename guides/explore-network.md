@@ -3,7 +3,7 @@
 Every community members has “interests” listed in their profile, which indicate their skills and/or expertise. We created the Explore Interests page for those wanting a closer look at the interests that make up a community. It allows you to zoom in on max. 5 interests at once. 
 
 
-![Phone Screenshot of Explore Network](/images/explore-network.jpg)
+![Phone screenshot of Explore Network](/images/explore-network.jpg)
 
 
 To access this visualization, click on the menu icon in the top-left corner of your screen, and then choose Explore Network. 
@@ -15,4 +15,4 @@ To choose other values, click "Edit Values (Interests)" at the top of your scree
 
 You can also choose to filter the members based on a relationship strength: check or uncheck the boxes that say "Show the following connection" to switch between any or all of the relationship strengths. 
 
-![Phone Screenshot of Edit Explore Network](/images/Edit-explore-network.jpg)
+![Phone screenshot of Edit Explore Network](/images/Edit-explore-network.jpg)
