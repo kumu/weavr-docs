@@ -15,8 +15,16 @@ After opening the Weavr app, you'll be prompted to enter your email address. An 
 
 _Note: you can only sign into Weavr if you own a community (admin), or you're invited into a community (member). If you're not part of any community, then you won't receive a signin link at all._
 
+
+![Phone screenshot of Signin Link](/images/signin-link.jpg)
+
+
 ## Fill out your profile
 Once you've logged into the app, click on the profile icon on the far right of the bottom menu bar to access your profile. Here, you can edit your profile by clicking on the pencil icon in the top-right corner. Add a profile picture, fill out your basic info, and add your interests, offers & needs. Note that profile information is viewable to everyone in the community!
+
+
+![Phone screenshot of Profile](/images/profile.jpg)
+
 
 ## Update your relationships
 After filling out your profile, it’s time to add your relationships! Click on the edit pencil and choose “Edit my relationships” to indicate who you know in the community and how well through indicating relationship strengths. The number of relationship strengths and their specific text is set by the community admin. 
@@ -25,8 +33,16 @@ After filling out your profile, it’s time to add your relationships! Click on 
 - All community members can see your relationships and their strengths.
 - Any relationship you add will show up on the other member's profile, even if they haven't added you as a relationship.*
 
+
+![Phone screenshot of Relationships](/images/relationships.jpg)
+
+
 ## Start posting
 Once you’re set up, you can create a Post to send a message to your entire community. Choose the Posts icon in the bottom menu bar of your screen and click on the + sign to add a new post and assign it to a [post topic](/guides/messages.md). Or perhaps start reaching out to fellow community members through the direct message functionality!
+
+
+![Phone screenshot of Messages](/images/messages.jpg)
+
 
 ## Weaving Prompts
 Weaving Prompts is a foundational feature of Weavr that allows you to weave your network together and grow a more impactful community. 
@@ -37,8 +53,16 @@ Weaving prompts will also occasionally push a notification to your phone when yo
 
 Find more information about Weaving prompts [here](/guides/weaving-prompts.md). 
 
+
+![Phone screenshot of Weaving Prompts](/images/weaving-prompts.jpg)
+
+
 ## Network Analysis & Explore Network
 Analyze your network with Kumu's powerful relationship mapping technology. Find the network map of your community by clicking on the hamburger icon in the top-left corner of the homepage, and choose "[Network Analysis](/guides/network-analysis.md)" or "[Explore Network](/guides/explore-network.md)". 
+
+
+![Phone screenshot of Network Analysis](/images/network-analysis.jpg)
+
 
 ## Support
 That’s it! You’ve successfully added yourself to a Weavr community and started using Weavr's basic functionalities. 
