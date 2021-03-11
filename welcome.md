@@ -7,4 +7,5 @@ If you're an **admin**, we recommend starting with the [Getting Started guide fo
 
 If you're a **community member**, we recommend starting with the [Getting Started guide for members](/guides/getting-started-member.md).
 
-Still got questions after scouring the Help docs? Don't hesitate to reach out to us at support@weavr.app! 
+Still got questions after scouring the Help docs? 
+Don't hesitate to reach out to us at support@weavr.app! 
