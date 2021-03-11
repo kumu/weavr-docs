@@ -1,6 +1,7 @@
 # Weavr
 
-Welcome to the Weavr Help docs. We're excited to help you get set up and explore Weavr with your community. 
+Welcome to the Weavr Help docs. 
+We're excited to help you get set up and explore Weavr with your community. 
 
 If you're an **admin**, we recommend starting with the [Getting Started guide for admins](/guides/getting-started-admin.md).
 
