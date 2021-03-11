@@ -9,8 +9,10 @@ After opening the Weavr app, you'll be prompted to enter your email address. An 
 
 
 **I'm not receiving a signin link**
-- Yes, we know this is an obvious one, but have you checked your spam folder? Happens to the best of us!
+- Are you a part of/invited into an existing community yet? If not, you won't receive a signin link. 
 - Are you using the correct email address? Please use the email address associated with your community profile.
+- Yes, we know this is an obvious one; have you checked your spam folder? 
+Happens to the best of us!
 
 **My signin link doesn't work**
 - Make sure you are using the sign-in link from the most recent email. 
