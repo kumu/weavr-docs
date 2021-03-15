@@ -2,7 +2,7 @@
 
 ## Welcome
 
-* [Weavr](/guides/welcome.md)
+* [Weavr](welcome.md)
 
 ## Overview
 
