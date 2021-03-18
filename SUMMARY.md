@@ -12,6 +12,7 @@
 
 ## Guides
 
+* [Admin vs Members](/guides/admin-vs-member.md)
 * [Explore Network](/guides/explore-network.md)
 * [Export to Kumu](/guides/export-kumu.md)
 * [Health & Metrics](/guides/health-metrics.md)
