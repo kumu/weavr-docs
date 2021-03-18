@@ -9,7 +9,7 @@ A Weavr community has two types of users:
 By default, the person that initially created the Weavr community is automatically an Admin. Only Admins can grant other members Admin status. 
 To do so, visit any member's profile, click on the edit pencil in the top-right corner, and then choose "Grant Admin Status". 
 
-![Grant Admin Status](/images/grant-admin-status.jpg)
+![Phone screenshot of Grant Admin Status](/images/grant-admin-rights.jpg)
 
 ## Revoking someone's Admin status
 Only current Admins can revoke Admin status. 
