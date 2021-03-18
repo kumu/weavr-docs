@@ -19,9 +19,9 @@ To revert a person from Admin back to Member, visit the admin's profile, click o
 
 The table below outlines exactly which rights an admin has vs a regular community member: 
 
-| Rights  | Admin | Member
-| ------------- | ------------- |
-| Create a Weavr community  | Yes | No
+| Rights  | Admin | Member |
+| ------------- | ------------- | ------------- |
+| Create a Weavr community  | Yes | No |
 | Edit Community Settings   | Yes  | No  |
 | Grant/Revoke Admin Status   | Yes  | No  |
 | Edit any Member profile   | Yes  | No  |
