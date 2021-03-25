@@ -520,7 +520,7 @@ table.plan-table tr td:not(:first-child) {
   line-height: 25px;
 }
 
-.guide-tile li a {
+.guide-tile li {
   padding-left: 35px;
   position: relative;
   display: block;
