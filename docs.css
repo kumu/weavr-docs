@@ -517,13 +517,9 @@ table.plan-table tr td:not(:first-child) {
   margin: 0;
   border-top: 1px solid #edf0f0;
   line-height: 25px;
-}
-
-.guide-tile li {
-  padding-left: 35px;
+  padding-left: 45px;
   position: relative;
   display: block;
-  line-height: 20px;
   font-size: 16px !important;
   font-family: "proxima-nova", "Proxima Nova", "Helvetica Neue", sans-serif !important;
 }
@@ -532,10 +528,9 @@ table.plan-table tr td:not(:first-child) {
 .guide-tile .fa {
   font-size: 22px;
   position: absolute;
-  left: 0;
-  top: .9em;
+  left: 15px;
+  top: 1em;
   transform: translateY(-50%);
-  margin-left: 5px;
 }
 
 /* Fitvid.js video tweaks */
