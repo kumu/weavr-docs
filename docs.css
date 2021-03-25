@@ -533,6 +533,13 @@ table.plan-table tr td:not(:first-child) {
   transform: translateY(-50%);
 }
 
+.guide-tile .fa::before {
+  background-image: linear-gradient(90deg, hsl(358, 96%, 70%), hsl(14, 97%, 72%));
+  background-size: 100%;
+  background-clip: text;
+  color: transparent;
+}
+
 /* Fitvid.js video tweaks */
 
 embed,
