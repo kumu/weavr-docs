@@ -533,8 +533,9 @@ table.plan-table tr td:not(:first-child) {
   font-size: 22px;
   position: absolute;
   left: 0;
-  top: 0;
-  text-decoration: none!important;
+  top: .9em;
+  transform: translateY(-50%);
+  margin-left: 5px;
 }
 
 /* Fitvid.js video tweaks */
