@@ -2,9 +2,9 @@
 
 Deleting a user effectively removes them from the community. If they'd want to re-join the community, they'd have to be invited again.
 
-Please note:
+_Please note:
 - only Admins can remove other users. Community members can only delete their own user (profile).
-- If you delete your own user your are immediately removed from the community and won't be able to access it again, unless you are invited back into it!
+- If you delete your own user your are immediately removed from the community and won't be able to access it again, unless you're invited back into it._
 
 To delete a user: 
 1. Navigate to a profile
