@@ -19,32 +19,39 @@ To create a new project, click Add Project straight from your own profile page a
 
 When setting up a new project you're asked for the following information:
 
-- **Title** 
+**Title** 
 Give your project a descriptive title.
 
-- **Description**
+**Description**
 Elaborate on what you're project is about and any other information you'd like to share.
 
-- **Category**
+**Category**
 Choose any of the available (default) categories from the dropdown: 
   - **Cohort** - 
   - **Collaboration** - 
   - **Project** - 
   - **Team** - 
 
-  _Please note: if the above categories differ from the options you're seeing, then your admin has changed the categories for your community._
-  _In case of questions about the categories, please reach out to your admin(s)._
+_Please note: if the above categories differ from the options you're seeing, then your admin has changed the categories for your community._
+_In case of questions about the categories, please reach out to your admin(s)._
 
-- **Tags**
+**Tags**
 Add any tags relevant to the project. 
 
-- **Status**
+**Status**
 Choose a status for your project:
   - **Open** - Any user can add themselves to the project as a collaborator
   - **Closed** - Only project leads or admins can add others as collaborators
 
-- **Cover photo**
+
+**Cover photo**
 Add a nice image that describes the project or is related to the work being done. 
+
+## Edit a project
+At any moment in time can you change a project's details, leads or collaborators. To do so, click on the project title to open its page, and then click on the three dots in the top-right corner to choose "Edit project". 
+
+## Delete a project
+To delete a project, click on the project title to open its page, and then click on the three dots in the top-right corner to choose "Delete project". 
 
 ## Admin Settings
 Only admins can edit Project settings for the whole community. 
