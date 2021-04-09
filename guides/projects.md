@@ -26,13 +26,7 @@ Give your project a descriptive title.
 Elaborate on what you're project is about and any other information you'd like to share.
 
 **Category**
-Choose any of the available (default) categories from the dropdown: 
-  - **Cohort** - 
-  - **Collaboration** - 
-  - **Project** - 
-  - **Team** - 
-
-_Please note: if the above categories differ from the options you're seeing, then your admin has changed the categories for your community._
+Choose the category that best describes your project.
 _In case of questions about the categories, please reach out to your admin(s)._
 
 **Tags**
@@ -47,10 +41,10 @@ Choose a status for your project:
 Add a nice image that describes the project or is related to the work being done. 
 
 ## Edit a project
-At any moment in time can you change a project's details, leads or collaborators. To do so, click on the project title to open its page, and then click on the three dots in the top-right corner to choose "Edit project". 
+Only project leads and admins edit a project's details, leads, or collaborators. To do so, click on the project title to open its page, and then click on the three dots in the top-right corner to choose "Edit project". 
 
 ## Delete a project
-To delete a project, click on the project title to open its page, and then click on the three dots in the top-right corner to choose "Delete project". 
+Only project leads and admins can delete a project. To delete a project, click on the project title to open its page, and then click on the three dots in the top-right corner to choose "Delete project". 
 
 ## Admin Settings
 Only admins can edit Project settings for the whole community. 
