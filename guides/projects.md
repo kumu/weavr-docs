@@ -26,16 +26,14 @@ Give your project a descriptive title.
 Elaborate on what you're project is about and any other information you'd like to share.
 
 - **Category**
-Choose any of the available categories from the dropdown. 
-
-The following are default categories: 
+Choose any of the available (default) categories from the dropdown: 
   - **Cohort** - 
   - **Collaboration** - 
   - **Project** - 
   - **Team** - 
 
-_Please note: if the above categories differ from the options you're seeing, then your admin has changed the categories for your community._
-_In case of questions about the categories, please reach out to your admin(s)._
+  _Please note: if the above categories differ from the options you're seeing, then your admin has changed the categories for your community._
+  _In case of questions about the categories, please reach out to your admin(s)._
 
 - **Tags**
 Add any tags relevant to the project. 
