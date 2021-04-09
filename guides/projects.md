@@ -27,9 +27,28 @@ Elaborate on what you're project is about and any other information you'd like t
 
 **Category**
 Choose any of the available categories from the dropdown. 
+
 The following are default categories: 
 - **Cohort** - 
-- **Collabora
+- **Collaboration** - 
+- **Project** - 
+- **Team** - 
 
 _Please note: if the above categories differ from the options you're seeing, then your admin has changed the categories for your community._
 _In case of questions about the categories, please reach out to your admin(s)._
+
+**Tags**
+Add any tags relevant to the project. 
+
+**Status**
+- **Open** - Any user can add themselves to the project as a collaborator
+- **Closed** - Only project leads or admins can add others as collaborators
+
+**Cover photo**
+Add a nice image that describes the project or is related to the work being done. 
+
+## Admin Settings
+Only admins can edit Project settings for the whole community. 
+To access Project settings, click on the settings icon in the top-right corner of your homescreen and choose "Projects". 
+
+Here, you can change the label of "Projects" (for example, renaming it to "Tasks" or "Activities"), and you can change the categories of the projects. 
