@@ -20,12 +20,15 @@ To create a new project, click Add Project straight from your own profile page a
 When setting up a new project you're asked for the following information:
 
 **Title** 
+
 Give your project a descriptive title.
 
 **Description**
+
 Elaborate on what you're project is about and any other information you'd like to share.
 
 **Category**
+
 Choose any of the available categories from the dropdown. 
 
 The following are default categories: 
@@ -38,6 +41,7 @@ _Please note: if the above categories differ from the options you're seeing, the
 _In case of questions about the categories, please reach out to your admin(s)._
 
 **Tags**
+
 Add any tags relevant to the project. 
 
 **Status**
@@ -45,6 +49,7 @@ Add any tags relevant to the project.
 - **Closed** - Only project leads or admins can add others as collaborators
 
 **Cover photo**
+
 Add a nice image that describes the project or is related to the work being done. 
 
 ## Admin Settings
