@@ -1,11 +1,8 @@
 # Summary
 
-## Welcome
-
-* [Weavr](welcome.md)
-
 ## Overview
 
+* [Welcome to Weavr!](welcome.md)
 * [Getting Started (for Admins)](/guides/getting-started-admin.md)
 * [Getting Started (for Community Members)](/guides/getting-started-member.md)
 * [Billing](/guides/billing.md)
