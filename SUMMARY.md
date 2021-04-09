@@ -20,6 +20,7 @@
 * [Messages & Post Topics](/guides/messages.md)
 * [Network Analysis](/guides/network-analysis.md)
 * [Profiles](/guides/profiles.md)
+* [Projects](/guides/projects.md)
 * [Relationship Strengths](/guides/relationship-strengths.md)
 * [Weaving Prompts](/guides/weaving-prompts.md)
 
