@@ -19,37 +19,33 @@ To create a new project, click Add Project straight from your own profile page a
 
 When setting up a new project you're asked for the following information:
 
-**Title** 
-
+- **Title** 
 Give your project a descriptive title.
 
-**Description**
-
+- **Description**
 Elaborate on what you're project is about and any other information you'd like to share.
 
-**Category**
-
+- **Category**
 Choose any of the available categories from the dropdown. 
 
 The following are default categories: 
-- **Cohort** - 
-- **Collaboration** - 
-- **Project** - 
-- **Team** - 
+  - **Cohort** - 
+  - **Collaboration** - 
+  - **Project** - 
+  - **Team** - 
 
 _Please note: if the above categories differ from the options you're seeing, then your admin has changed the categories for your community._
 _In case of questions about the categories, please reach out to your admin(s)._
 
-**Tags**
-
+- **Tags**
 Add any tags relevant to the project. 
 
-**Status**
-- **Open** - Any user can add themselves to the project as a collaborator
-- **Closed** - Only project leads or admins can add others as collaborators
+- **Status**
+Choose a status for your project:
+  - **Open** - Any user can add themselves to the project as a collaborator
+  - **Closed** - Only project leads or admins can add others as collaborators
 
-**Cover photo**
-
+- **Cover photo**
 Add a nice image that describes the project or is related to the work being done. 
 
 ## Admin Settings
