@@ -21,8 +21,10 @@ When setting up a new project you're asked for the following information:
 
 **Title** 
 Give your project a descriptive title.
+
 **Description**
 Elaborate on what you're project is about and any other information you'd like to share.
+
 **Category**
 Choose any of the available (default) categories from the dropdown: 
   - **Cohort** - 
@@ -35,10 +37,12 @@ _In case of questions about the categories, please reach out to your admin(s)._
 
 **Tags**
 Add any tags relevant to the project. 
+
 **Status**
 Choose a status for your project:
   - **Open** - Any user can add themselves to the project as a collaborator
   - **Closed** - Only project leads or admins can add others as collaborators
+
 **Cover photo**
 Add a nice image that describes the project or is related to the work being done. 
 
