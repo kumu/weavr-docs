@@ -23,7 +23,9 @@ The default relationships strengths in Weavr are:
 - We communicate regularly
 - We know of each other
 
-If you're an admin, you can decide to use these default strengths, or you can customize your relationship strengths by editing them. 
+_Please note: if the above relationship strengths differ from the options you're seeing, then your admin has changed the relationship strengths for your community. In case of questions about the categories, please reach out to your admin(s)._
+
+If you're an admin, you can decide to use the default strengths above, or you can customize your relationship strengths by editing them. 
 
 ![Phone screenshot of Relationship Strengths](/images/relationship-strengths.jpg)
 
