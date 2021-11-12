@@ -2,8 +2,8 @@
 
 A Weavr community has two types of users: 
 
-- **Admin(s)**- serve to manage the community and have more "rights" within the app than regular Members 
-- **Members**- any person added to an existing community that is not an Admin, is a Member
+- **Admin(s)**- An admin serves to manage the community and has more "rights" within the app than regular Members 
+- **Members**- Any person added to an existing community that is not an Admin
 
 ## Making someone an Admin
 By default, the person that initially created the Weavr community is automatically an Admin. Only Admins can grant other members Admin status. 
