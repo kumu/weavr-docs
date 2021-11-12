@@ -57,11 +57,11 @@ Find more information about Weaving prompts [here](/guides/weaving-prompts.md).
 ![Phone screenshot of Weaving Prompts](/images/weaving-prompts.jpg)
 
 
-## Network Analysis & Explore Network
-Analyze your network with Kumu's powerful relationship mapping technology. Find the network map of your community by clicking on the hamburger icon in the top-left corner of the homepage, and choose "[Network Analysis](/guides/network-analysis.md)" or "[Explore Network](/guides/explore-network.md)". 
+## Network Analysis
+Analyze your network with Kumu's powerful relationship mapping technology. Find the network map of your community by clicking on the hamburger icon in the top-left corner of the homepage, and choose "[Network Analysis](/guides/network-analysis.md)". 
 
 
-![Phone screenshot of Network Analysis](/images/network-analysis.jpg)
+![Phone screenshot of Network Analysis](/images/Network-Analysis.jpg)
 
 
 ## Support
