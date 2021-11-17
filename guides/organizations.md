@@ -23,12 +23,25 @@ There's three ways to join an existing organization:
 _Note: if the creator of the organization has indicated that you must be approved to join the organization, your request will automatically be sent to them. 
 once you're approved, you'll be notified and the affiliation will show up in your profile._
 
+![Phone screenshot of organizations](/images/organizations.jpg)
+
 ## Create a post
 
-If you're a part of an organization, you can create a post on behalf of that organization
+If you're part of an organization, you can create a [post](https://help.weavr.app/guides/messages.html) on behalf of that organization. Click on the messages icon in the menu bar, and click the three dots in the top-right corner to "Add Post". Write your post, and then click the dropdown at the bottom to set "Post as" to your organization. 
+
+Note that an organization can only create a post. It cannot _reply_ to posts as the company. 
 
 ## Organizations and their projects
+An organization can also be part of a project in Weavr. The project will then show up on the Organization page under the Projects header. 
 
-## Edit an organization?
+Learn how to create or join a project in [this guide](https://help.weavr.app/guides/projects.html) and choose the organization from the list of options. 
 
-## Delete an organization?
+## Edit, leave or delete an organization
+To edit an organization, first find the organization's profile page: 
+
+- Click on the Search icon and switch to the Organizations tab to click on the organization's name 
+- Or navigate to your own profile and click on the organization name under the Affiliations header
+
+On the organization's profile, click the edit pencil in the top-right corner and choose "Edit Profile". Don't forget to save your changes!
+
+_Note that only people that are part of the organization are able to edit or delete an organization._ 
