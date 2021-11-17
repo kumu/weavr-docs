@@ -1,6 +1,6 @@
 # Organizations
 
-You can list any organizationss that your community members are a part of inside the Weavr app. The organization will have their own page that shows a short description, the projects they're involved in, and the people that work for them. 
+You can list any organizations that your community members are a part of inside the Weavr app. The organization will have their own page that shows a short description, the projects they're involved in, and the people that work for them. 
 Similarly, you can see in a person's profile which organization(s) they're affiliated with in the "Affiliations" section: 
 
 ![Phone screenshot of affiliations](/images/affiliations.jpg)
