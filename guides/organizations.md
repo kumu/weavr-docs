@@ -9,6 +9,7 @@ Similarly, you can see in a person's profile which organization(s) they're affil
 
 To create an organization: navigate to your own profile, scroll to Affiliations and click the + icon. 
 On the next page, type in the name of your organization and click "Add [name of your organization]" or hit the "Next" button. 
+
 You'll then be asked to fill out information regarding the name, website, location, and interests of the organization. 
 You'll also be able to indicate here whether community members can add themselves to an organization automatically, or if their affiliation needs to be approved by the creator of the organization.  
 
@@ -22,6 +23,7 @@ There's three ways to join an existing organization:
 
 _Note: if the creator of the organization has indicated that you must be approved to join the organization, your request will automatically be sent to them. 
 Once you're approved, you'll be notified and the affiliation will show up in your profile._
+
 
 ![Phone screenshot of organizations](/images/organizations.jpg)
 
