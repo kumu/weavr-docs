@@ -15,6 +15,7 @@
 * [Inviting Community Members](/guides/inviting-members.md)
 * [Messages & Post Topics](/guides/messages.md)
 * [Network Analysis](/guides/network-analysis.md)
+* [Organizations](/guides/organizations.md)
 * [Profiles](/guides/profiles.md)
 * [Projects](/guides/projects.md)
 * [Relationship Strengths](/guides/relationship-strengths.md)
