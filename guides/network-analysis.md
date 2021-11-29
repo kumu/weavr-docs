@@ -49,7 +49,7 @@ If you click on the menu bar at the bottom of the Network Analysis page where it
 *Looking to do more extensive network analysis?
 [Export your Weavr data to Kumu](/guides/export-kumu.md) to use Kumu's more advanced features.*
 
-![Phone screenshot of Network Analysis Sizing](/images/network-analysis-sizing.jpeg)
+![Phone screenshot of Network Analysis Sizing](/images/network-analysis-size.jpeg)
 
 ### Color elements based on profile fields and add a legend
 Click on the Map Settings icon in the bottom-right corner of your screen to further customize your network map. Then, click on the dropdown "Color elements by:" to choose a field to color your map by. Upon choosing the field, a legend will be added in the bottom-left corner of your map. Please note you can only color by one field at a time.
