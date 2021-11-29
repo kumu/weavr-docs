@@ -34,6 +34,8 @@ Click on the metrics icon in the bottom-right corner to see a quick overview of 
 
 To run more advanced SNA metrics with your community data, we recommend to [export your Weavr data to Kumu](/guides/export-kumu.md), where you can run many more [SNA metrics](https://docs.kumu.io/guides/metrics.html). 
 
+![Phone screenshot of Network Analysis Metrics](/images/network-analysis-metrics.jpg)
+
 ### Size elements and rank the community
 Click on the Settings icon in the bottom-right corner of the page to choose which metric to size your elements by: **Betweenness Centrality**, **Incoming Connections**, **Outgoing Connections**, or **Total Connections**. You can find an explanation for each below. 
 
@@ -46,6 +48,8 @@ If you click on the menu bar at the bottom of the Network Analysis page where it
 
 *Looking to do more extensive network analysis?
 [Export your Weavr data to Kumu](/guides/export-kumu.md) to use Kumu's more advanced features.*
+
+![Phone screenshot of Network Analysis Sizing](/images/network-analysis-sizing.jpg)
 
 ### Color elements based on profile fields and add a legend
 Click on the Map Settings icon in the bottom-right corner of your screen to further customize your network map. Then, click on the dropdown "Color elements by:" to choose a field to color your map by. Upon choosing the field, a legend will be added in the bottom-left corner of your map. Please note you can only color by one field at a time.
