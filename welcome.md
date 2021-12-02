@@ -21,4 +21,4 @@ Welcome to the Weavr Help docs.  We're excited to help you get set up and explor
 
 ## Quick Tour
 
-<iframe src="https://www.youtube.com/watch?v=7EoSLVAZ4b8&t" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/7EoSLVAZ4b8&t" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
