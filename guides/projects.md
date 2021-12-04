@@ -9,6 +9,9 @@ _Please note that projects are always publicly viewable by everyone in your comm
 A few projects are highlighted on your home screen when you open the app. 
 To view all of the projects inside your community, click on "See all" on the right, or navigate to Search (magnifying glass in the menu bar) and switch to the Projects tab.
 
+
+![Phone screenshot of Projects](/images/projects.jpeg)
+
 ## How do I create a project?
 To create a new project, click Add Project straight from your own profile page and get it set up in three easy steps: 
 1. Enter project details
@@ -40,6 +43,8 @@ Choose a status for your project:
 **Cover photo**
 Add a nice image that describes the project or is related to the work being done. 
 
+![Phone screenshot of Create a Project](/images/create-project.jpeg)
+
 ## Edit a project
 Only project leads and admins edit a project's details, leads, or collaborators. To do so, click on the project title to open its page, and then click on the three dots in the top-right corner to choose "Edit project". 
 
@@ -51,3 +56,5 @@ Only admins can edit Project settings for the whole community.
 To access Project settings, click on the settings icon in the top-right corner of your homescreen and choose "Projects". 
 
 Here, you can change the label of "Projects" (for example, renaming it to "Tasks" or "Activities"), and you can change the categories of the projects. 
+
+![Phone screenshot of Edit a Project](/images/edit-project.jpeg)
