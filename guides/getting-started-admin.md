@@ -11,11 +11,10 @@ First and foremost: download the Weavr mobile app from your device’s app store
 ## Create a community
 After having downloaded the Weavr app, you’ll find the welcome page that invites you to Sign In (for returning users), or to Create a community. To create a new community, please visit weavr.app/create on a desktop. 
 
-*Please note that you’re asked for your credit card information in step 3 of setting up your own community. If you are unable to do that, or require a demo/trial, please contact us at support@weavr.app*
-
 
 ![Phone screenshot of Signin](/images/signin.jpg)
 
+You'll be asked to add a community name, mission, and cover photo in the second step of creating a community. This will be used to give your community a customized look and feel.
 
 ## Fill out your profile
 Once you've created your community and logged into the app, click on the profile icon on the far right of the bottom menu bar to access your profile. Here, you can edit your profile by clicking on the pencil icon in the top-right corner. Add a profile picture, fill out your basic info, and add your interests, offers and needs. Note that profile information is viewable to everyone in the community!
