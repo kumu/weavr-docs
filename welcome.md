@@ -21,8 +21,9 @@ We're excited to help you get set up and explore Weavr with your community!
 </div>
 
 ## Quick Tour
-_Subtitles available. Click the CC icon in the bottom-right corner of the video to turn them on._ 
+
 
 <iframe src="https://www.youtube.com/embed/7EoSLVAZ4b8" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-If you have any additional questions, don't hesitate to contact us at support@weavr.app!
+
+_Subtitles available. Click the CC icon in the bottom-right corner of the video to turn them on._ 
