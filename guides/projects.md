@@ -51,7 +51,7 @@ Only project leads and admins edit a project's details, leads, or collaborators.
 ## Delete a project
 Only project leads and admins can delete a project. To delete a project, click on the project title to open its page, and then click on the three dots in the top-right corner to choose "Delete project". 
 
-## Admin Settings
+## Admin settings
 Only admins can edit Project settings for the whole community. 
 To access Project settings, click on the settings icon in the top-right corner of your homescreen and choose "Projects". 
 
