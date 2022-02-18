@@ -15,10 +15,10 @@ To add or change the credit card you use for Weavr, perform the following steps:
 
 ![Billing Settings](/images/billing-settings.png)
 
-## Monthly vs Annual billing
+## Monthly vs annual billing
 If you are on a monthly billing cycle, Weavr will bill your account each month. A Weavr community is $29 per month; which includes unlimited members and all functionalities. 
 
-## Payment Receipts
+## Payment receipts
 Our billing system automatically sends a receipt to the email address on file each time a payment is made. From time to time, these receipts might get sent to your email's spam folder; if you don't see a receipt, be sure to check there first.
 
 If you want to change the email address that receipts are sent to, please reach out to us through support@weavr.app
