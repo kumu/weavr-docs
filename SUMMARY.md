@@ -19,6 +19,7 @@
 * [Profiles](/guides/profiles.md)
 * [Projects](/guides/projects.md)
 * [Relationship Strengths](/guides/relationship-strengths.md)
+* [Search](/guides/search.md)
 * [Weaving Prompts](/guides/weaving-prompts.md)
 
 
