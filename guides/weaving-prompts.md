@@ -44,7 +44,7 @@ Click "Send to send a notification to both members and invite them to connect.
 
 ![Phone screenshot of Manual Weaving Prompts](/images/manual-weaving-prompt.jpg)
 
-## Manage your weaving prompts
+## Manage your Weaving Prompts
 To manage your weaving prompts, click on the three dots in the top-right menu of the Weaving Prompts page and choose which weaving prompts you'd like to see: 
 
 - **Open** - Any unanswered weaving prompts
