@@ -13,16 +13,14 @@ With free text search, you can search based on any of the information stored in 
 
 _Note: by default, Weavr's search is set to search in the community member profiles. If you'd like to search for Projects or Organizations, make sure to change the tab at the top of the page._
 
-![Filter Search](/images/filter-search.png)
-
-## Dynamic Search 
+### Dynamic Search 
 To combine search values, simply add more values to your existing search. They'll be added as tags: 
 
 ![Dynamic Search](/images/dynamic-search.png)
 
 _Note: dynamic search functions as AND, meaning that a profile must match **all** of the search terms to be included in the results (as opposed to OR, where a profile is included when **any one** of the search terms match)._
 
-## Exact Search
+### Exact Search
 When you're using Search, Weavr is automatically using partial text matching. 
 This means that if you, for example, search for the word **complex**, you'll also see results from people that have the word **complexity** in their profile. 
 
