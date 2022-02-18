@@ -11,7 +11,7 @@ We're excited to help you get set up and explore Weavr with your community!
         <li><i class="fa fa-arrow-circle-o-right"></i>If you're an <strong>admin</strong>, we recommend starting with the <a href="/guides/getting-started-admin.html">"Getting Started" guide for admins</a>.</li>
       </ul>
       <ul>
-        <li><i class="fa fa-arrow-circle-o-right"></i>If you're a <strong>community member</strong>, we recommend starting with the <a href="/guides/getting-started-member.html">"Getting Started" guide for members</a>.</li>
+        <li><i class="fa fa-arrow-circle-o-right"></i>If you're a <strong>community member</strong>, have a go at the <a href="/guides/getting-started-member.html">"Getting Started" guide for members</a>.</li>
       </ul>
       <ul>
         <li><i class="fa fa-arrow-circle-o-right"></i>Still have questions? Don't hesitate to reach out to us at <a href="mailto:support@weavr.app">support@weavr.app</a>!</li>
