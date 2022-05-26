@@ -26,3 +26,6 @@ This means that if you, for example, search for the word **complex**, you'll als
 
 If you'd like to search for exact wording, to hide irrelevant results, you can wrap your search term in quotes. 
 For the example above, that means you'd search for **"complex"**, and you'd only get results for people that have this exact word in their profile. 
+
+### Export your search results
+Want a csv export of your search results? Just hit Ctrl+E (Command + E on Mac) when you're on the search screen and your download will begin shortly!
